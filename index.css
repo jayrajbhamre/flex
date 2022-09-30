@@ -1,0 +1,12 @@
+.container
+{
+    display: flex;
+text-align: center;
+font-weight: bolder;
+
+}
+h1{
+    margin-top: 200px;
+    padding: 50px;
+}
+
